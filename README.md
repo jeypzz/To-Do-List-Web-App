@@ -4,7 +4,7 @@ A Todo App built with React.
 
 ## Demo
 
-[Link](https://radiant-muffin-2eb5d8.netlify.app/)
+[Link](https://todolist-jeypzz.vercel.app/)
 
 ## Getting Started
 
